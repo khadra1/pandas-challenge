@@ -27,8 +27,6 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
-**Hint:** Check out a [sample solution](PyCitySchools/PyCitySchools_starter.ipynb) to review the desired format for this assignment.
-
 ### District Summary
 
 Create a high-level snapshot, in a DataFrame, of the district's key metrics, including the following:
